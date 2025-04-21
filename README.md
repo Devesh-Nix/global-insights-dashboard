@@ -1,7 +1,5 @@
 # 📊 Insights Dashboard – BlackCoffer VizDash
 
-![Dashboard Preview](https://via.placeholder.com/800x400) <!-- Replace with an actual screenshot URL -->
-
 A dynamic, interactive dashboard built with **Django**, **Chart.js**, and **Bootstrap 5**, designed to visualize and explore global insights across multiple dimensions such as intensity, relevance, likelihood, region, topic, and more.
 
 Ideal for businesses, analysts, and researchers who need data-driven decision-making tools.
