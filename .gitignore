@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+ENV/
+*.env
+*.log
+
+# Django
+*.sqlite3
+db.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.db
+local_settings.py
+media/
+staticfiles/
+
+# PostgreSQL (optional dump files or temp)
+*.sql
+*.dump
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# PyCharm
+.idea/
+
+# Node (if any frontend tools used)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Static and build artifacts
+/static/
+/static_root/
+/assets/
+
+# Test and coverage files
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+coverage.xml
+nosetests.xml
+test-results/
